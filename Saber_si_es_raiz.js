@@ -18,5 +18,6 @@ function esRaiz2(n) {
   return Math.sqrt(n) % 1 === 0;
 }
 
+
 let z = esRaiz(25)
 console.log(z)
